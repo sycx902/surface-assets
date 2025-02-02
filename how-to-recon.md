@@ -42,8 +42,8 @@ curl -s "http://web.archive.org/cdx/search/cdx?url=*.domain.com/*&output=json&co
 ```
 cat subdomains.txt | dnsx -a -cname -resp
 ```
-here \n
--a → Resolve A records \n
--cname → resolve cname records
--resp → print responses
+here <br>
+-a → Resolve A records <br>
+-cname → resolve cname records <br>
+-resp → print responses <br>
 
