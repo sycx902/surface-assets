@@ -32,3 +32,18 @@ curl -s "https://urlscan.io/api/v1/search/?q=domain:domain.com&size=10000" | jq 
 ```
 curl -s "http://web.archive.org/cdx/search/cdx?url=*.domain.com/*&output=json&collapse=urlkey" | jq -r '.[1:][] | .[2]' | grep -Eo '([a-zA-Z0-9._-]+\.)?domain\.com' | sort -u | tee webarcive_subs.txt
 ```
+
+
+
+
+
+
+# Check subdomain for aws s3 buckets using dnsx
+```
+cat subdomains.txt | dnsx -a -cname -resp
+```
+here 
+-a → Resolve A records
+-cname → resolve cname records
+-resp → print responses
+
