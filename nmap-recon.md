@@ -5,7 +5,7 @@ Basic Scanning Techniques
 | ``` scan single target  ``` |
 
 
-
+<html>
 
 | Command          | Description               |
 |------------------|---------------------------|
@@ -23,7 +23,7 @@ function copyToClipboard(text) {
 }
 </script>
 
-
+</html>
 
 
 
