@@ -8,6 +8,7 @@
 | nmap -sn target | Ping scan to determine if host is online |
 
 <h3>Port Spesification</h3>
+
 | Command          | Description                              |
 |------------------|------------------------------------------|
 | nmap -p port target | Scan a spesific port |
