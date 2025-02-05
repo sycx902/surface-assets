@@ -9,7 +9,7 @@ Basic Scanning Techniques
 
 | Command          | Description               |
 |------------------|---------------------------|
-| `git status`     | List all new or modified files |
+| `git status`     | List all new or modified files | ```git status ```
 | `git diff`      | Show file differences that haven't been staged |
 | **Copy Command** | <button onclick="copyToClipboard('git status')">Copy to Clipboard</button> |
 
