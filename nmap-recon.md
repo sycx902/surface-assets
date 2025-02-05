@@ -23,7 +23,7 @@
 | nmap -sV target | Service and version detection |
 | nmap -A target | Aggressive scan (OS detect, version, scripts) |
 | nmap --version-intensity 0-9 target | Adjust version detection intensity |
-
+<p>
 <h3>Scan Types</h3>
 
 | Command          | Description                              |
@@ -36,7 +36,8 @@
 | nmap -sF target | FIN scan (fin flag scan) |
 | nmap -sX target | XMAS scan ( FIN, URG, and PSH flags are set) |
 | nmap -sO target | Protocol scan (Determine supported protocols) |
-|  |  |
+| nmap -sP target | Ping Scan(no port scan) |
+</p>
 |  |  |
 |  |  |
 |  |  |
