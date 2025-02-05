@@ -1,4 +1,4 @@
-<h3> Basic scanning technique</h3>
+<center><h3> Basic scanning technique</h3></center>
 
 | Command          | Description                              |
 |------------------|------------------------------------------|
