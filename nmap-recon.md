@@ -1,14 +1,15 @@
 Basic Scanning Techniques
-| Column 1 | Column 2 |
+| Command | Description |
 |----------|----------|
-| Row 1    |``` Data 1   |
-| Row 2    |``` Data 3   |
-| Row 1    |``` Data 1   |
-| Row 2    | Data 3   |
-| Row 1    | Data 1   |
-| Row 2    | Data 3   |
-| Row 1    | Data 1   |
-| Row 2    | Data 3   |
-| Row 1    | Data 1   |
-| Row 2    | Data 3   |
+| ``` scan single target  ``` | Scan Single Target |
+| ``` scan single target  ``` |
+
+
+
+
+
+
+
+
+
 
