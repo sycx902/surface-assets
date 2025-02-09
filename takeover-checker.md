@@ -1,4 +1,11 @@
+automation
+
+  ```
+  - subzy
+  - nuclei http takeover template
+  ```
+
+azure
 ```
-- subzy
-- nuclei http takeover template
+~/nuclei-templates/dns/azure-takeover-detection.yaml
 ```
