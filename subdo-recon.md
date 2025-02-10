@@ -47,3 +47,7 @@ here <br>
 -cname → resolve cname records <br>
 -resp → print responses <br>
 
+
+#scan port with nmap
+whenever you found port 53 open
+you should check the zone transfer
